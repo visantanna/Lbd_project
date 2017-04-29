@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\vis_a\AndroidStudioProjects\BandasApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="add1e07e128c04897ac2cd670cfbeba73462824a">
+        <dex dex="C:\Users\vis_a\AndroidStudioProjects\BandasApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_41d081554e87e40bc5e43ec9ef8bdf4b64143c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vis_a\AndroidStudioProjects\BandasApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\vis_a\AndroidStudioProjects\BandasApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_524fae4b2f2031bd6c318275963cd96384a07240\classes.dex" />
+    </item>
+
+</items>
